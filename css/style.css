@@ -1,11 +1,14 @@
 * {
     color: rgb(219, 216, 216);
-    background-color: rgb(90, 90, 90);
 }
 
 body {
     font-family: Verdana, "Times New Roman", sans-serif;
     text-align: center;
+}
+
+.bgcolor {
+    background-color: rgb(90, 90, 90);
 }
 
 .bg {
